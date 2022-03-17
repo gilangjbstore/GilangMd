@@ -10,7 +10,7 @@
     </a>
 </p>
 
-# BOTV2
+# BOTMDV1
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
